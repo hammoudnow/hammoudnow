@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Hammoud
-- 👀 I’m interested in Python
+- 👀 I’m interested in Data Driven Applications, Python, Data Analysis
 - 🌱 I’m currently learning Generative AI
 - 📫 How to reach me?  @hammoudnow
 
