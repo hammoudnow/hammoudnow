@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Hammoud
-- 👀 I’m interested in Data Driven Applications, Python, Data Analysis
-- 🌱 I’m currently learning Generative AI
+- 👀 I’m interested in Data Driven Applications, Product Design, Data Analysis
+- 🌱 I’m currently learning how bias can affect hiring algorithms 
 - 📫 How to reach me?  @hammoudnow
 
 <!---
